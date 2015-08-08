@@ -1,4 +1,5 @@
 # mysql-back
+php备份和导入mysql数据库
 
 ## mysql.class.php
 * 这是mysql数据库连接类
